@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scrible_config>
+	<url value = "http" />
+	<hostdomain value = "www.scu.edu.cn" />
+	<path value = "test" />
+	<filename value = "1" />
+	<filex value = ".jpg" />
+</scrible_config>
